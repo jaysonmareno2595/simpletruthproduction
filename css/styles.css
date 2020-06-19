@@ -10275,3 +10275,7 @@ section.resume-section .resume-section-content {
     }
   }
   
+
+  .col-lg-12.text-center a {
+    color: white;
+}
