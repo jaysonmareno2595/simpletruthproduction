@@ -10276,6 +10276,12 @@ section.resume-section .resume-section-content {
   }
   
 
+  @media screen and (max-width: 700px) {
+    h1.mb-0 {
+      font-size: 3em;
+  }
+  }
+
   .col-lg-12.text-center a {
     color: white;
 }
@@ -10283,4 +10289,5 @@ section.resume-section .resume-section-content {
 
 h1.mb-0 {
   font-family: Helvetica Neue, sans-serif;
+ color: #00B1AD !important;
 }
